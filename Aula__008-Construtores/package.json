@@ -1,0 +1,12 @@
+{
+    "name": "moz",
+    "version": "1.0.0",
+    "description": "para os seus clientes do moz",
+    "main": "Banco.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Soto",
+    "license": "ISC",
+    "type": "module"
+}
